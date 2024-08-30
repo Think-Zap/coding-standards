@@ -1,5 +1,5 @@
 {
-	"name": "zap/coding-standards",
+	"name": "think-zap/coding-standards",
 	"description": "Zap Coding Standard for PHPCS",
 	"type": "phpcodesniffer-standard",
 	"keywords": [
