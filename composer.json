@@ -1,0 +1,36 @@
+{
+	"name": "zap/coding-standards",
+	"description": "Zap Coding Standard for PHPCS",
+	"type": "phpcodesniffer-standard",
+	"keywords": [
+		"phpcs",
+		"coding",
+		"standard",
+		"static analysis",
+		"zap",
+		"think zap",
+		"code",
+		"style",
+		"sniffer",
+		"rules",
+		"sniffs",
+		"checks"
+	],
+	"license": "MIT",
+	"require": {
+		"php": ">=7.4",
+		"automattic/vipwpcs": "^3.0",
+		"PHPCSStandards/phpcodesniffer-composer-installer": "^0.7.1 | ^1.0",
+		"phpcompatibility/phpcompatibility-wp": "^2.1",
+		"slevomat/coding-standard": "^8.0",
+		"squizlabs/php_codesniffer": "^3.6"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"config": {
+		"sort-packages": true,
+		"allow-plugins": {
+			"PHPCSStandards/phpcodesniffer-composer-installer": true
+		}
+	}
+}
