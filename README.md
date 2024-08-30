@@ -1,6 +1,6 @@
 # Zap Coding Standards
 
-The Zap Coding Standard is a set of [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) rules for use primarily with the Zamp Competition plugins.
+The Zap Coding Standard is a set of [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) rules for use primarily with the Zap Competition plugins.
 
 ## Requirements
 
