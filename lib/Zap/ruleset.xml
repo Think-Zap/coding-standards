@@ -23,6 +23,9 @@
         <exclude name="Squiz.Functions.MultiLineFunctionDeclaration.BraceOnSameLine"/>
     </rule>
 
+    <!-- Require short array syntax -->
+    <rule ref="Generic.Arrays.DisallowLongArraySyntax"/>
+
     <!-- PEAR -->
     <rule ref="PEAR.NamingConventions.ValidClassName"/>
 
