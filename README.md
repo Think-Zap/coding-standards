@@ -4,14 +4,14 @@ The Zap Coding Standard is a set of [PHP_CodeSniffer](https://github.com/squizla
 
 ## Requirements
 
-- PHP ^7.4
+- PHP ^8.2
 
 ## Install
 
 Composer v2:
 
 ```bash
-composer require --dev Think-Zap/coding-standards "^1.0"`
+composer require --dev Think-Zap/coding-standards "^2.0"`
 ```
 
 Composer v1:
@@ -33,7 +33,7 @@ And `require-dev`:
 
 ## Project ruleset
 
-> Ensure you're running PHP 7.4 locally!
+> Ensure you're running PHP 8.2 locally!
 
 To use this ruleset, create a `phpcs.xml.dist` in the root of the project and add the following content:
 

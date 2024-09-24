@@ -18,7 +18,7 @@
 	],
 	"license": "MIT",
 	"require": {
-		"php": ">=7.4",
+		"php": ">=8.2",
 		"automattic/vipwpcs": "^3.0",
 		"phpcompatibility/phpcompatibility-wp": "^2.1",
 		"slevomat/coding-standard": "^8.0",
